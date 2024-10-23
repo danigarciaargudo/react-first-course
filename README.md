@@ -1,6 +1,6 @@
 # React + Vite
 
-Actualizaci´n del proyecto
+Actualización del proyecto
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
